@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragment_home"
+        android:icon="@drawable/baseline_view_list_24"
+        android:title="User List" />
+    <item
+        android:id="@+id/myAccountFragment"
+        android:icon="@drawable/baseline_account_box_24"
+        android:title="My Account" />
+</menu>
